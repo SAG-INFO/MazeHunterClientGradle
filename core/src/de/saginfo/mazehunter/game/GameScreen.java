@@ -1,7 +1,7 @@
-package de.saginfo.labyrind.game;
+package de.saginfo.mazehunter.game;
 
 import com.badlogic.gdx.Gdx;
-import de.saginfo.labyrind.grafik.RenderSystem;
+import de.saginfo.mazehunter.grafik.RenderSystem;
 import com.badlogic.gdx.ScreenAdapter;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.utils.viewport.FillViewport;

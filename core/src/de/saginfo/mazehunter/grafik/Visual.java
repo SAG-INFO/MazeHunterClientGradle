@@ -1,4 +1,4 @@
-package de.saginfo.labyrind.grafik;
+package de.saginfo.mazehunter.grafik;
 
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 

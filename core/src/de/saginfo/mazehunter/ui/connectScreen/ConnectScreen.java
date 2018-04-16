@@ -3,7 +3,7 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package de.saginfo.labyrind.ui.connectScreen;
+package de.saginfo.mazehunter.ui.connectScreen;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.ScreenAdapter;
@@ -16,8 +16,8 @@ import com.badlogic.gdx.utils.Timer;
 import com.badlogic.gdx.utils.Timer.Task;
 import com.badlogic.gdx.utils.viewport.FillViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
-import de.saginfo.labyrind.client.GameClient;
-import de.saginfo.labyrind.ui.Menu;
+import de.saginfo.mazehunter.client.GameClient;
+import de.saginfo.mazehunter.ui.Menu;
 import java.io.IOException;
 
 /**

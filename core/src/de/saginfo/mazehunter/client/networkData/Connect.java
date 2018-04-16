@@ -1,8 +1,9 @@
-package de.saginfo.labyrind.client.networkData;
+package de.saginfo.mazehunter.client.networkData;
 
 /**
  *
  * @author sreis
  */
 public class Connect {
+    
 }

@@ -1,11 +1,11 @@
-package de.saginfo.labyrind.grafik;
+package de.saginfo.mazehunter.grafik;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.g2d.Sprite;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
-import de.saginfo.labyrind.game.GameScreen;
-import static de.saginfo.labyrind.game.GameScreen.GAMESCREEN_SINGLETON;
+import de.saginfo.mazehunter.game.GameScreen;
+import static de.saginfo.mazehunter.game.GameScreen.GAMESCREEN_SINGLETON;
 import java.util.ArrayList;
 import java.util.Comparator;
 

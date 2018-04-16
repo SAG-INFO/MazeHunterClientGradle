@@ -1,7 +1,7 @@
-package de.saginfo.labyrind;
+package de.saginfo.mazehunter;
 
 import com.badlogic.gdx.Game;
-import de.saginfo.labyrind.ui.enterIpScreen.EnterIpScreen;
+import de.saginfo.mazehunter.ui.enterIpScreen.EnterIpScreen;
 
 public class LabyRindMain extends Game {
 

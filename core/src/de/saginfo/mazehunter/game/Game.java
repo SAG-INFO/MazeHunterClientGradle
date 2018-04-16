@@ -1,7 +1,7 @@
-package de.saginfo.labyrind.game;
+package de.saginfo.mazehunter.game;
 
-import static de.saginfo.labyrind.game.GameScreen.GAMESCREEN_SINGLETON;
-import de.saginfo.labyrind.grafik.SpriteVisual;
+import static de.saginfo.mazehunter.game.GameScreen.GAMESCREEN_SINGLETON;
+import de.saginfo.mazehunter.grafik.SpriteVisual;
 
 /**
  * 

@@ -1,4 +1,4 @@
-package de.saginfo.labyrind.ui.enterIpScreen;
+package de.saginfo.mazehunter.ui.enterIpScreen;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.Input;
@@ -21,8 +21,8 @@ import com.badlogic.gdx.utils.Timer;
 import com.badlogic.gdx.utils.viewport.ExtendViewport;
 import com.badlogic.gdx.utils.viewport.FillViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
-import de.saginfo.labyrind.LabyRindMain;
-import de.saginfo.labyrind.ui.connectScreen.ConnectScreen;
+import de.saginfo.mazehunter.LabyRindMain;
+import de.saginfo.mazehunter.ui.connectScreen.ConnectScreen;
 
 /**
  *

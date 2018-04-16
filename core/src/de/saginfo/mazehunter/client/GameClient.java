@@ -3,10 +3,10 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package de.saginfo.labyrind.client;
+package de.saginfo.mazehunter.client;
 
 import com.esotericsoftware.kryonet.Client;
-import de.saginfo.labyrind.client.networkData.*;
+import de.saginfo.mazehunter.client.networkData.Connect;
 import java.io.IOException;
 
 /**

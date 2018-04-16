@@ -1,4 +1,4 @@
-package de.saginfo.labyrind.ui;
+package de.saginfo.mazehunter.ui;
 
 import com.badlogic.gdx.Gdx;
 import com.badlogic.gdx.graphics.g2d.BitmapFont;
