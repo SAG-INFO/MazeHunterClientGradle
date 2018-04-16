@@ -1,8 +1,8 @@
-package de.saginfo.labyrind.desktop;
+package de.saginfo.mazehunter.desktop;
 
 import com.badlogic.gdx.backends.lwjgl.LwjglApplication;
 import com.badlogic.gdx.backends.lwjgl.LwjglApplicationConfiguration;
-import de.saginfo.labyrind.LabyRindMain;
+import de.saginfo.mazehunter.LabyRindMain;
 
 public class DesktopLauncher {
 	public static void main (String[] arg) {
