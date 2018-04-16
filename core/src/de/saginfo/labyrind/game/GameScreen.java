@@ -8,7 +8,7 @@ import com.badlogic.gdx.utils.viewport.FillViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
 /**
- * Manages the main game (calles update, close, etc, ...) TTTTTTTTTTTTTTTT
+ * Manages the main game (calles update, close, etc, ...) AAAAAAA
  * keeps track of some graphics related stuff:
  * {@link RenderSystem}, {@link OrthographicCamera}, {@link Viewport}, ...
  * @author sreis
