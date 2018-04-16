@@ -1,7 +1,6 @@
 package de.saginfo.labyrind;
 
 import com.badlogic.gdx.Game;
-import de.saginfo.labyrind.ui.Menu;
 import de.saginfo.labyrind.ui.enterIpScreen.EnterIpScreen;
 
 public class LabyRindMain extends Game {

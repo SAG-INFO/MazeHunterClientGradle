@@ -8,12 +8,15 @@ import com.badlogic.gdx.utils.viewport.FillViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
 
 /**
- *
+ * Manages the main game (calles update, close, etc, ...)
+ * keeps track of some graphics related stuff:
+ * {@link RenderSystem}, {@link OrthographicCamera}, {@link Viewport}, ...
  * @author sreis
  */
 public class GameScreen extends ScreenAdapter {
 
     public Game game;
+    public String test;
     public RenderSystem renderSystem;
     
     public OrthographicCamera camera;

@@ -9,7 +9,7 @@ import de.saginfo.labyrind.grafik.SpriteVisual;
 public class Game {
     
     public Game() {
-        //Test Grafik
+        //Test Graphics
         
         SpriteVisual test2 = new SpriteVisual("img\\map\\edge.png");
         test2.setZIndex(2);
@@ -29,7 +29,7 @@ public class Game {
         
     }
     
-    /**Wird aufgerufen wenn der user das Fenster schließt*/
+    /**called when the user closes the window*/
     public void close(){
         
     }
