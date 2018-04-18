@@ -4,7 +4,7 @@ import com.badlogic.gdx.Gdx;
 import com.esotericsoftware.kryonet.Connection;
 import com.esotericsoftware.kryonet.Listener;
 import de.saginfo.mazehunter.LabyRindMain;
-import de.saginfo.mazehunter.client.networkData.Connect;
+import de.saginfo.mazehunter.client.networkData.ConnectResponse;
 import de.saginfo.mazehunter.game.GameScreen;
 
 /**
@@ -18,7 +18,7 @@ public class ConnectSystem extends Listener {
 
     @Override
     public void received(Connection connection, Object object) {
-        if (object instanceof Connect) {
+        if (object instanceof ConnectResponse) {
             Gdx.app.postRunnable(new Runnable() {
                 public void run() {
                     LabyRindMain.GAME_SINGLETON.setScreen(new GameScreen());
