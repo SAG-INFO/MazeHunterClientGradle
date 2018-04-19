@@ -1,3 +1,3 @@
 # MazeHunterClient
-
-Moin
+super cool version, which we can't use because...
+...our school net
